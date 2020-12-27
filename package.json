@@ -1,0 +1,16 @@
+{
+  "name": "ecommerce.github.io-master",
+  "version": "1.0.0",
+  "description": "An eccommerce website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Riya, Tosh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1"
+  }
+}
